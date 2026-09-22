@@ -2,6 +2,12 @@
 
 This repository contains documentation, empirical benchmarks, production integration patterns, and the comprehensive engineering thesis evaluating **Jev (TypeSafe AI)** as a **System One Semantic Coprocessor** within an autonomous multi-agent engineering organization.
 
+
+
+<p align="center">
+  <img src="assets/dual_process_architecture.png" alt="Dual-Process Cognitive Architecture for AI Agents" width="100%">
+</p>
+
 ---
 
 ## 📚 Core Publications & Deliverables
